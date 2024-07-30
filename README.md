@@ -1,4 +1,4 @@
-# mag_beam
+# A fast computational software for nonlinnear dynamics of magnetoelastic flexible structures
 
 To run this code, you should have a Linux Ubuntu system
 
